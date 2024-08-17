@@ -1,0 +1,9 @@
+---------------------Liste des statistiques-----------------------------
+Le pire etudiant est: { Nom : KJSHK ; Prenom : oiznd ; Moyenne : 12.0 } 
+Le meilleur etudiant est: { Nom : khskdjs ; Prenom : qjshdqkd ; Moyenne : 20.0 } 
+La moyenne est: 16.0
+Les etudiants admis sont: 
+{ Nom : khskdjs ; Prenom : qjshdqkd ; Moyenne : 20.0 }
+{ Nom : KJSHK ; Prenom : oiznd ; Moyenne : 12.0 }
+Les etudiants admis au rattrapage sont: 
+Les etudiants recallés sont: 
